@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "QRPLabs")(type "KiCad")(uri "${KIPRJMOD}/QRPLabs.kicad_sym")(options "")(descr ""))
+)
