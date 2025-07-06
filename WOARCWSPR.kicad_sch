@@ -6274,7 +6274,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount"
+		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount"
 			(at 180.34 151.13 0)
 			(effects
 				(font
