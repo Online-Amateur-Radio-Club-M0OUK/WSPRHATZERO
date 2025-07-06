@@ -6134,7 +6134,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 104.14 76.2 0)
 			(effects
 				(font
